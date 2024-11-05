@@ -1,4 +1,3 @@
-Here's the updated `README.md` file with instructions on how to install the software, set up the files, and run the projects:
 
 ---
 
